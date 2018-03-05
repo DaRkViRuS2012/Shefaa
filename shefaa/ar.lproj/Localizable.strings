@@ -1,0 +1,96 @@
+/* 
+  Localizable.strings
+  shefaa
+
+  Created by Nour  on 3/3/17.
+  Copyright © 2017 Nour . All rights reserved.
+*/
+"Log In" = "تسجيل الدخول";
+"Email" = "البريد الالكتروني";
+"Password" =  "كلمة المرور";
+"Sign in" = "تسجيل الدخول";
+"SIGN UP" = "التسجيل";
+"Log Out" = "الخروج";
+"DON’T HAVE AN ACCOUNT?" = "ليس لديك حساب؟";
+"Find a Doctor" = "البحث عن طبيب";
+"Find a Pharmacy"= "البحث عن صيدلية";
+"Name ,Country or City" = "الاسم ,منطقة";
+"Name:" = "الاسم:";
+"Specialization" = "الاختصاص:";
+"Price" = "الكلفة";
+"Rate" = "التصنيف";
+"Address" = "العنوان";
+"Address:" = "العنوان:";
+"Allow Shefaa to see your location from settings" = "اسمح لتطبيق شفاء من تحديد مكانك من خلال الاعدادات";
+"My Messages" = "رسائلي";
+"My Prescriptions" = "وصفاتي";
+"My Notifications" = "تنبيهاتي";
+"About" = "حول";
+"Contact Us" = "اتصل بنا";
+"Pharmacy:"  =  "الصيدلية:" ;
+"Medicine:"  =  "الدواء:" ;
+"Enter your username and password" = "تاكد من ادخال اسم المستخدم وكلمة المرور";
+"Username" = "اسم المستخدم";
+"Appointments" = "المواعيد";
+"Forget Password?" = "نسيت كلمة المرور؟";
+"Wrong username or password" = "اسم السمتخدم او كلمة المرور خاطئة";
+"No Internet" = "لايوجد اتصال";
+"check your connection and try again" = "تاكد من الاتصال واعد المحاولة مجددا";
+"Map" = "الخريطة";
+"Shefaa" = "شفاء";
+"OK" = "موافق";
+"Details" = "تفاصيل";
+"No Appointments" = "لايوجد مواعيد";
+"Specialization" = "التخصص";
+"Open Hours" = "اوقات الدوام";
+"New Message" = "رسالة جديدة";
+"Prescriptions" = "الوصفات";
+"New Appointment" = "موعد جديد";
+"Done" = "تم";
+"Today" = "اليوم";
+"Saturday" = "السبت";
+"Sunday" = "الاحد";
+"Monday" = "الاثنين";
+"Tuesday" = "الثلاثاء";
+"Wednsday" = "الاربعاء";
+"Thersday" = "الخميس";
+"Friday" = "الجمعة";
+"Pharmacist Name" = "اسم الصيدلي";
+"Loading..." = "تحميل ...";
+"Messages" = "الرسائل";
+"Reply" = "رد";
+"Massege send faild" = "لم يتم ارسال الرسالة";
+"Try again later" = "اعد المحاولة لاحقا";
+"Message sent successfully" = "تم ارسال الرسالة بنجاح";
+"Please enter a subject" = "الرجاء ادخال موضوع للرسالة";
+"Connection error" = "خطأ بالاتصال";
+"reload" = "اعادة التحميل";
+"Medicines" = "الادوية";
+"Save" ="حفظ";
+"Change amount" = "تعديل الكمية";
+"Tests" = "تحاليل";
+"Medicine name , id" = "اسم الدواء , رقم ";
+"Cancel" = "الغاء";
+"Pharmacy ,Medicine or City" = "صيدلية، دواء او منطقة" ;
+"Appointment Booked Successfully" = "تم حجز الموعد بنجاح";
+"Someone added appointment at this exact time, please select another time" = "هذا الوقت غير متاح الرجاء اختيار وقت اخر";
+"appointment approved succesfully" = "تم قبول الموعد بنجاح";
+
+"Appointment ID:" = "رقم الموعد:" ;
+"Title :" = "";
+"Patient Name:" = "اسم المريض";
+"Urgent appointment cause:" = "سبب الموعد العاجل";
+"Appointment Status:" = "حالة الموعد";
+"Approved" = "مقبول";
+"Not approved" = "غير مقبول";
+"Time" = "الوقت" ;
+"Enter new amount" = "ادخل الكميةالجديدة";
+"Urgent appointment reasone" = "سبب الموعد العاجل";
+"Whay choose urgent appointment?" = "لماذا اختار الموعد العاجل؟";
+"This option is used only in emergencies We will notify you if this appointment is approved If it is not necessary you can book a regular appointment at the doctor's available times" = "يستخدم هذا الخيار فقط في الحالات الطارئة سيتم إعلامك في حال موافقة الطبيب على الموعد العاجل إن لم تكن مضطراً يمكنك حجز موعد عادي في الأوقات المتاحة لدى الطبيب";
+
+"Appointment time changed successfully" = "تم تغير الوقت بنجاح";
+"Appointment time did not changed" = "لم يتم تغير الوقت حاول مجددا ";
+
+"Cancel" = "الغاء";
+"appointment approved succesfully" = "تم الموافقة على الموعد";

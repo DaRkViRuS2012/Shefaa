@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A53BB2D2E6DBD4A86D4466B7FC57EFD7579A55D5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ECC0584F1339754DBE16F25026AC86F9F5F3F1C5" : 9223372036854775807,
+    "A53BB2D2E6DBD4A86D4466B7FC57EFD7579A55D5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B71F409E-4D09-4DC0-979C-2AA7A038233B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ECC0584F1339754DBE16F25026AC86F9F5F3F1C5" : "",
+    "A53BB2D2E6DBD4A86D4466B7FC57EFD7579A55D5" : "shefaa\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "shefaa",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "shefaa.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DaRkViRuS2012\/shefaaProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A53BB2D2E6DBD4A86D4466B7FC57EFD7579A55D5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DaRkViRuS2012\/iosProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ECC0584F1339754DBE16F25026AC86F9F5F3F1C5"
+    }
+  ]
+}

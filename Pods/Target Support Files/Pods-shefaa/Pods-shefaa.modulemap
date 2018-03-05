@@ -1,0 +1,6 @@
+framework module Pods_shefaa {
+  umbrella header "Pods-shefaa-umbrella.h"
+
+  export *
+  module * { export * }
+}

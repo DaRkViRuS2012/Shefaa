@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "21/05/2017"; ObjectID = "Elh-gY-V2a"; */
+"Elh-gY-V2a.text" = "21/05/2017";
+
+/* Class = "UILabel"; text = "Time:"; ObjectID = "Eug-Op-LTT"; */
+"Eug-Op-LTT.text" = "الوقت:";
+
+/* Class = "UILabel"; text = "20:50"; ObjectID = "eV6-ex-k1r"; */
+"eV6-ex-k1r.text" = "20:50";
+
+/* Class = "UILabel"; text = "Patient :"; ObjectID = "jGk-md-EkV"; */
+"jGk-md-EkV.text" = "المريض :";
+
+/* Class = "UILabel"; text = "Date:"; ObjectID = "jzJ-VE-1N8"; */
+"jzJ-VE-1N8.text" = "التاريخ:";

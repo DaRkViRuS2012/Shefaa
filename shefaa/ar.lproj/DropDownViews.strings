@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "J7C-sn-CyA"; */
+"J7C-sn-CyA.normalTitle" = "الغاء";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "Lcq-cD-QmR"; */
+"Lcq-cD-QmR.normalTitle" = "موافق";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Rlb-JN-2lk"; */
+"Rlb-JN-2lk.normalTitle" = "الغاء";
+
+/* Class = "UIButton"; normalTitle = "Choose"; ObjectID = "VFq-dF-b0k"; */
+"VFq-dF-b0k.normalTitle" = "اختار";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "Xcx-A3-GPz"; */
+"Xcx-A3-GPz.placeholder" = "السعر";
+
+/* Class = "UILabel"; text = "Rate"; ObjectID = "ZpT-1U-9DW"; */
+"ZpT-1U-9DW.text" = "التصنيف";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "ahc-ov-Jre"; */
+"ahc-ov-Jre.normalTitle" = "موافق";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "g8M-sS-5jH"; */
+"g8M-sS-5jH.normalTitle" = "موافق";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "pQ7-WZ-KfT"; */
+"pQ7-WZ-KfT.normalTitle" = "الغاء";

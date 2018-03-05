@@ -1,0 +1,92 @@
+
+/* Class = "UILabel"; text = "Docotor"; ObjectID = "1sH-rs-PFY"; */
+"1sH-rs-PFY.text" = "الدكتور";
+
+/* Class = "UILabel"; text = "There is no time in this date"; ObjectID = "43F-SL-dlv"; */
+"43F-SL-dlv.text" = "لا يوجد اوقات في هذا اليوم";
+
+/* Class = "UISegmentedControl"; 60T-Ma-e73.segmentTitles[0] = "Approved"; ObjectID = "60T-Ma-e73"; */
+"60T-Ma-e73.segmentTitles[0]" = "مؤكد";
+
+/* Class = "UISegmentedControl"; 60T-Ma-e73.segmentTitles[1] = "Not Approved"; ObjectID = "60T-Ma-e73"; */
+"60T-Ma-e73.segmentTitles[1]" = "غير مؤكد";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "9OM-wx-L9v"; */
+"9OM-wx-L9v.text" = "تاريخ";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "CTB-he-LDP"; */
+"CTB-he-LDP.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "EJ5-Lb-kjS"; */
+"EJ5-Lb-kjS.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Urgent"; ObjectID = "G5L-ZL-3Ax"; */
+"G5L-ZL-3Ax.text" = "عاجل";
+
+/* Class = "UIButton"; normalTitle = "Diagnosis"; ObjectID = "Jb6-Z2-dri"; */
+"Jb6-Z2-dri.normalTitle" = "الحالات المرضية";
+
+/* Class = "UILabel"; text = "Available times"; ObjectID = "K7H-U2-dce"; */
+"K7H-U2-dce.text" = "الاوقات المتاحة";
+
+/* Class = "UILabel"; text = "Remining"; ObjectID = "Kjy-YB-4IW"; */
+"Kjy-YB-4IW.text" = "متبقي";
+
+/* Class = "UILabel"; text = " "; ObjectID = "LA7-E7-yaY"; */
+"LA7-E7-yaY.text" = " ";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "OBn-Kv-4YO"; */
+"OBn-Kv-4YO.text" = "الى";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "OFr-13-6RU"; */
+"OFr-13-6RU.normalTitle" = "موافق";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "OSB-q7-EFI"; */
+"OSB-q7-EFI.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "Medicines"; ObjectID = "Pto-zQ-Gjn"; */
+"Pto-zQ-Gjn.normalTitle" = "ادوية";
+
+/* Class = "UIViewController"; title = "New Message"; ObjectID = "XnA-y1-qyU"; */
+"XnA-y1-qyU.title" = "رسالة جديدة";
+
+/* Class = "UIButton"; normalTitle = "Tests"; ObjectID = "Ycc-s2-X34"; */
+"Ycc-s2-X34.normalTitle" = "تحاليل";
+
+/* Class = "UILabel"; text = "Urgent"; ObjectID = "d9j-Ck-UIm"; */
+"d9j-Ck-UIm.text" = "عاجل";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "efS-r9-3dI"; */
+"efS-r9-3dI.text" = "عنوان";
+
+/* Class = "UIViewController"; title = "splash"; ObjectID = "gM1-zu-oSw"; */
+"gM1-zu-oSw.title" = "splash";
+
+/* Class = "UILabel"; text = "loading..."; ObjectID = "hFh-YI-fNi"; */
+"hFh-YI-fNi.text" = "تحميل";
+
+/* Class = "UILabel"; text = " "; ObjectID = "hhe-Yg-Lrc"; */
+"hhe-Yg-Lrc.text" = " ";
+
+/* Class = "UILabel"; text = "Rgular"; ObjectID = "mgK-tl-2sa"; */
+"mgK-tl-2sa.text" = "عادي";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "neR-Ew-3EH"; */
+"neR-Ew-3EH.text" = "الكمية";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "p11-ml-89r"; */
+"p11-ml-89r.text" = "الموضوع";
+
+/* Class = "UILabel"; text = "ID:"; ObjectID = "ttk-cC-WRr"; */
+"ttk-cC-WRr.text" = "الرقم";
+
+/* Class = "UILabel"; text = " "; ObjectID = "ulf-dO-d3n"; */
+"ulf-dO-d3n.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "xJt-lX-7vf"; */
+"xJt-lX-7vf.normalTitle" = "ارسال";
+
+/* Class = "UILabel"; text = "Please choose when you want to make an appointment"; ObjectID = "xrl-eq-QtI"; */
+"xrl-eq-QtI.text" = "الرجاء اختيار وقت لحجز الموعد";
+
+"Yl1-fP-CjQ.text" = "لماذا اختار الموعد العاجل";

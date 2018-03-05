@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Date:"; ObjectID = "XiW-N2-Puf"; */
+"XiW-N2-Puf.text" = "Date:";
+
+/* Class = "UILabel"; text = "Prescription:"; ObjectID = "bvQ-gf-OTm"; */
+"bvQ-gf-OTm.text" = "Prescription:";
+
+/* Class = "UILabel"; text = "Doctor:"; ObjectID = "x5H-aU-4g2"; */
+"x5H-aU-4g2.text" = "Doctor:";

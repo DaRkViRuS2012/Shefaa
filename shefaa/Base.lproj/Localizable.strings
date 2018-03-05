@@ -1,0 +1,95 @@
+/*
+ Localizable.strings
+ shefaa
+ 
+ Created by Nour  on 3/3/17.
+ Copyright © 2017 Nour . All rights reserved.
+ */
+"Log In" = "Log In";
+"Email" = "Email";
+"Password" =  "Password" ;
+"Sign in" = "Sign in";
+"SIGN UP" = "SIGN UP";
+"Log Out" = "Log Out";
+"DON’T HAVE AN ACCOUNT?" = "DON’T HAVE AN ACCOUNT?";
+"Find a Doctor" = "Find a Doctor";
+"Find a Pharmacy"= "Find a Pharmacy";
+"Name ,Country or City" = "Name ,Country or City";
+"Name:" = "Name:";
+"Specialization" = "Specialization";
+"Price" = "Cost";
+"Rate" = "Rate";
+"Address" = "Address";
+"Address:" = "Address:";
+"Allow ك to see your location from settings" = "Allow Shefaa to see your location from settings";
+"My Messages" = "My Messages";
+"My Prescriptions" = "My Prescriptions";
+"My Notifications" = "My Notifications";
+"About" = "About";
+"Contact Us" = "Contact Us";
+"Pharmacy:"  =  "Pharmacy:";
+"Medicine:"  =  "Medicine:" ;
+"Enter your username and password" = "Enter your username and password";
+"Username" = "Username";
+"Appointments" = "Appointments";
+"Forget Password?" = "Forget Password?";
+"Wrong username or password" = "Wrong username or password";
+"No Internet" = "No Internet";
+"check your connection and try again" = "check your connection and try again";
+"Map" = "Map";
+"Shefaa" = "Shefaa";
+"OK" = "OK";
+"Details" = "Details";
+"No Appointments" = "No Appointments";
+"Specialization" = "Specialization";
+"Open Hours" = "Open Hours";
+"New Message" = "New Message";
+"Prescriptions" = "Prescriptions";
+"New Appointment" = "New Appointment";
+"Done" = "Done";
+"Today" = "Today";
+"Saturday" = "Saturday";
+"Sunday" = "Sunday";
+"Monday" = "Monday";
+"Tuesday" = "Tuesday";
+"Wednsday" = "Wednsday";
+"Thersday" = "Thersday";
+"Friday" = "Friday";
+"Pharmacist Name" = "Pharmacist Name";
+"Loading..." = "Loading...";
+"Messages" = "Messages";
+"Reply" = "Reply";
+"Massege send faild" = "Massege send faild";
+"Try again later" = "Try again later";
+"Message sent successfully" = "Message sent successfully";
+"Please enter a subject" = "Please enter a subject";
+"Connection error" = "Connection error";
+"reload" = "reload";
+"Medicines" = "Medicines";
+"Save" ="Save";
+"Change amount" = "Change amount";
+"Tests" = "Tests";
+"Medicine name , id" = "Medicine name , id";
+"Cancel" ="Cancel"; 
+"Appointment Booked Successfully" = "Appointment Booked Successfully";
+"Someone added appointment at this exact time, please select another time" = "Someone added appointment at this exact time, please select another time";
+"appointment approved succesfully" = "appointment approved succesfully" ;
+"Appointment ID:" = "Appointment ID:";
+"Title :" = "Title :";
+"Patient Name:" = "Patient Name:";
+"Urgent appointment cause:" = "Urgent appointment cause:";
+"Appointment Status:" = "Appointment Status:";
+"Approved" = "Approved";
+"Not approved" = "Not approved";
+"Time" = "Time" ;
+"Enter new amount" = "Enter new amount";
+"Urgent appointment reasone" = "Urgent appointment reasone";
+"This option is used only in emergencies We will notify you if this appointment is approved If it is not necessary you can book a regular appointment at the doctor's available times" = "This option is used only in emergencies We will notify you if this appointment is approved If it is not necessary you can book a regular appointment at the doctor's available times";
+
+"Whay choose urgent appointment?" = "Whay choose urgent appointment?";
+
+"Appointment time did not changed" = "Appointment time did not changed";
+
+"Appointment time changed successfully" = "Appointment time changed successfully";
+"Cancel" = "Cancel";
+"appointment approved succesfully" = "appointment approved succesfully";
