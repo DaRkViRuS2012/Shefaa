@@ -104,10 +104,9 @@ class LeftViewController: UIViewController ,SFSafariViewControllerDelegate{
         
     }
     
+    
     func prepareNotification(){
-    
        NotificationCenter.default.addObserver(self, selector: #selector(prepareCells), name: Notification.Name("refresh"), object: nil)
-    
     }
     
     
